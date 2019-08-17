@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/my-series-app/static/js/main.50cebf6a.chunk.js",
+    "main.js.map": "/my-series-app/static/js/main.50cebf6a.chunk.js.map",
+    "runtime~main.js": "/my-series-app/static/js/runtime~main.2afa6974.js",
+    "runtime~main.js.map": "/my-series-app/static/js/runtime~main.2afa6974.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/my-series-app/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.e610f046.chunk.js": "/my-series-app/static/js/2.e610f046.chunk.js",
+    "static/js/2.e610f046.chunk.js.map": "/my-series-app/static/js/2.e610f046.chunk.js.map",
+    "index.html": "/my-series-app/index.html",
+    "precache-manifest.2a572cd64dcf69593e75fc1579e56ed6.js": "/my-series-app/precache-manifest.2a572cd64dcf69593e75fc1579e56ed6.js",
+    "service-worker.js": "/my-series-app/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/my-series-app/static/css/2.22a7d4ef.chunk.css.map"
+  }
+}

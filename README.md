@@ -1,4 +1,4 @@
-# https://carlosdiver.github.io/my-series-app/
+# https://carlosdiver.github.io/
 
 <a href="http://myseriesapp-com.umbler.net/" target="_blank">My Series APP</a>
 

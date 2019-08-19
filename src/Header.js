@@ -22,19 +22,19 @@ const Header = () => {
         <Collapse isOpen={open} navbar>
           <Nav className='ml-auto' navbar>
             <NavItem>
-              <NavLink tag={Link} to='/' >Home</NavLink>
+              <NavLink onClick={toggle} tag={Link} to='/' >Home</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink tag={Link} to='/series' >Séries</NavLink>
+              <NavLink onClick={toggle} tag={Link} to='/series' >Séries</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink tag={Link} to='/genres' >Gêneros</NavLink>
+              <NavLink onClick={toggle} tag={Link} to='/genres' >Gêneros</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink tag={Link} to='/serie/new' >Nova Série</NavLink>
+              <NavLink onClick={toggle} tag={Link} to='/serie/new' >Nova Série</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink tag={Link} to='/genres/new' >Novo Gênero</NavLink>
+              <NavLink onClick={toggle} tag={Link} to='/genres/new' >Novo Gênero</NavLink>
             </NavItem>
           </Nav>
         </Collapse>

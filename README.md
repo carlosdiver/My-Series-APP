@@ -10,4 +10,4 @@ as séries que já assistiu, as que está assistindo e aquelas que pretende assi
 
 <small>Desenvolvido como parte didática do curso devReactJS da DevPleno.</small>
 
-<img src="https://wallpapercave.com/wp/wp1839581.jpg" alt="My Series App" />
+<img src="https://raw.githubusercontent.com/carlosdiver/my-series-app/master/public/screenshot.png" alt="My Series App" />

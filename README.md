@@ -2,12 +2,11 @@
 
 <a href="http://myseriesapp-com.umbler.net/" target="_blank">http://myseriesapp-com.umbler.net/</a>
 
+App created with ReactJS.
 
-App criado com ReactJS para fins didáticos. <br />
+Series Manager. <br />
+Users can manage the series they are watching, have watched or will watch.
 
-Simula um gerenciador de séries, que o usuário possa gerenciar <br />
-as séries que já assistiu, as que está assistindo e aquelas que pretende assitir.
-
-<small>Desenvolvido como parte didática do curso devReactJS da DevPleno.</small>
+<small>Developed at devReactJS course of DevPleno.</small>
 
 <img src="https://raw.githubusercontent.com/carlosdiver/my-series-app/master/public/screenshot.png" alt="My Series App" />

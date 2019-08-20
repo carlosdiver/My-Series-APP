@@ -1,7 +1,5 @@
 # My Series App
 
-<a href="http://myseriesapp-com.umbler.net/" target="_blank">http://myseriesapp-com.umbler.net/</a>
-
 App created with ReactJS.
 
 Series Manager. <br />
